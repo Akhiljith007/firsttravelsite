@@ -1,0 +1,18 @@
+
+*{margin: 0;
+background-color: white;
+border: 0;}
+
+.firstsection{text-align: center;
+color: black;
+padding: 5%;}
+
+#seconsection{text-align: center;
+color: black;
+margin-top: 1%;
+}
+
+.container{margin-top: -10%;}
+
+#media{padding-left: 10px;
+}
